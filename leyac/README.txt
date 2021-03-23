@@ -111,4 +111,4 @@ garry - leyac's table.Copy function
 
 "Fucks" go to:
 
-HeX - Claiming I stole his files and based my AC of his, because he "thought I did" ( http://i.imgur.com/IfnFcdo.png )- http://steamcommunity.com/profiles/76561197995883976
+HeX - Claiming I stole his files and based my AC of his, because he "thought I did" ( https://i.imgur.com/KHwGT6U.png )- http://steamcommunity.com/profiles/76561197995883976
