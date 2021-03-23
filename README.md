@@ -37,7 +37,7 @@ Eventually after !cake Anti-Cheat faded away, I re-entered the Anti-Cheating sce
   * Creating this project
 - All the clients
   * Funding this project and the updates
-- cake!
+- !cake
   * Making a really good successor and taking over as the market Anti-Cheat guy after this ones end of life
 - Anyone  who deserves it who I might have forgotten since this is over 5 years old
   * Message me, and I'll add you here
