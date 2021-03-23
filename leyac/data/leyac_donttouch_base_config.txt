@@ -1,0 +1,47 @@
+"TableToKeyValues"
+{
+
+	"AdaptationMode" "yes"
+
+	"CustomCheck"		"no"
+
+	"KickForCheating"		"no"
+
+	"BanForCheating"		"yes"
+	"BanForCheating_Time"		"86400"
+	"BanForSeedForcing"	"yes"
+
+	"HTMLForCheating"		"no"
+	"HTMLForCheating_URL"		"http://nyan.cat/"
+	"HTMLForCheating_Command"		"say I was a bad bad boy :("
+
+	"SmartAdapt"	"yes"
+
+	"CheckFileCRC"	"no"
+
+	"WebLogScript"	"no"
+
+	"KickForNameSteal"		"yes"
+
+	"NotifyPlayers"	"yes"
+	"ScreenshotOnDetect" "yes"
+
+	"TimeOut"		"0"
+	"TimeOut_RandomMin"		"140"
+	"TimeOut_RandomMax"		"240"
+
+	"TimeToPunish"		"160"
+	
+	"Respond_Time"		"170"
+	"LogTimedOut"		"no"
+
+	"CustomReason"		"Cheats"
+
+	"Receive_Func"		"ijustwannahaveyourightbymyside"
+	"Hi_Func"			"hellohellohelloimcool"
+	"Menu_Func"			"kkkkimabestever"
+	
+	"CheckTime"		"80"
+	
+
+}

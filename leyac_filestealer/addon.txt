@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Ley AC File Stealer"
+	"version"			"1"
+	"up_date"			""
+	"author_name"			"Leystryku"
+	"author_email"			"Leystryku@gmail.com"
+	"author_url"			""
+	"info"				"Filestealer for LeyAC"
+	"override"			"0"
+}

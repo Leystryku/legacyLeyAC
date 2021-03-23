@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Ley AC"
+	"version"			"1"
+	"up_date"			""
+	"author_name"			"Leystryku"
+	"author_email"			"Leystryku@gmail.com"
+	"author_url"			""
+	"info"				"A efficient Anti-Cheat by Leystryu"
+	"override"			"0"
+}
