@@ -39,5 +39,21 @@ Eventually after !cake Anti-Cheat faded away, I re-entered the Anti-Cheating sce
   * Funding this project and the updates
 - !cake
   * Making a really good successor and taking over as the market Anti-Cheat guy after this ones end of life
-- Anyone  who deserves it who I might have forgotten since this is over 5 years old
-  * Message me, and I'll add you here
+- Oubliette
+  * old split function which was used from 3.0 to 5.01
+- Willox
+  * new split function, string magic for the old serverside smartsourcecheck ( used in this version )
+- NanoCat
+  * Testing & Suggestions
+- Meepen (formerly MeepDarknessMeep)
+  * Testing
+- ZeroTheFallen
+  * Motivation
+- Papa John
+  * Testing & Suggestions
+- sasha
+  * Testing & Emotional Support
+- Garry and Team Facepunch
+  * LeyAC's table.Copy function and GarrysMod in general
+- Hex/MfsInc
+  * being a dick, claiming the AC "might have been based on his" because "he thought I stole his files", banning 100k people who were innocent in a public attempt to get a "skidlist" which ended up with huge drama making him a laughing stock in old FP #retrodrama https://i.imgur.com/KHwGT6U.png 
